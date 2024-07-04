@@ -1,1 +1,3 @@
 I created this file on Github to learn and use the "git pull" command.
+
+I edit this file to use the "git pull" to update the changes on the project not only add a file.
