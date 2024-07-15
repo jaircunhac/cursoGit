@@ -36,3 +36,12 @@ Linguagens Favoritas:
 
 **Logo do Github**
 ![Logo do Github](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/180px-GitHub_Invertocat_Logo.svg.png)
+
+## Inserindo Links
+
+**Sites importantes**
+[Google](https://www.google.com)
+[YouTube](https://www.youtube.com)
+
+**Peculiariedade com o link do Github**
+https://www.github.com/jaircunhac
