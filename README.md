@@ -35,4 +35,4 @@ Linguagens Favoritas:
 ![Logo do Git](img/gitLogo.png)
 
 **Logo do Github**
-![Logo do Github](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGitHub&psig=AOvVaw1r-QdaCQjAopCBtN-ZXSls&ust=1721140680916000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiFvraiqYcDFQAAAAAdAAAAABAX)
+![Logo do Github](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/180px-GitHub_Invertocat_Logo.svg.png)
