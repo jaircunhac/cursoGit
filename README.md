@@ -45,3 +45,7 @@ Linguagens Favoritas:
 
 **Peculiariedade com o link do Github**
 https://www.github.com/jaircunhac
+
+**Imagem clicavel**
+
+[![Logo Youtube](https://t3.ftcdn.net/jpg/04/74/05/94/360_F_474059464_qldYuzxaUWEwNTtYBJ44VN89ARuFktHW.jpg)](https://www.youtube.com)
