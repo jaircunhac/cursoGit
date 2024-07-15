@@ -55,3 +55,11 @@ https://www.github.com/jaircunhac
 ```python
 print('Hello world!')
 ```
+
+## Lista de tarefas
+
+**Tarefas concluídas**
+- [x] Funções Matemáticas
+- [] Input
+- [x] HTML básico
+- [] CSS básico
