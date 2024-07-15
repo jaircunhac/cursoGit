@@ -21,11 +21,11 @@ Linguagens Back:
 * Python
 * C#
 
-**A lista acima não é ordenada**
+**A lista acima não é ordenada** (Usei * [Algo])
 
 Linguagens Favoritas:
 1. Python
 2. Java
 3. C++
 
-**A lista acima é ordenada**
+**A lista acima é ordenada** (Usei [número. Algo])
