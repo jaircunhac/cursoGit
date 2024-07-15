@@ -29,3 +29,7 @@ Linguagens Favoritas:
 3. C++
 
 **A lista acima é ordenada** (Usei [número. Algo])
+
+## Inserindo Imagens
+
+![Logo do Git](img/gitLogo.png)
